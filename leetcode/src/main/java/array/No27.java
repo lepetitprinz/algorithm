@@ -1,7 +1,5 @@
 package array;
 
-import java.util.Arrays;
-
 public class No27 {
     private static final int[] nums = {0,1,2,2,3,0,4,2};
     private static final int val = 2;
